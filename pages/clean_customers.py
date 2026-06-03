@@ -147,5 +147,5 @@ else:
 
 # ปุ่มกลับหน้าหลัก
 st.sidebar.divider()
-if st.sidebar.button("🏠 กลับหน้าหลัก"):
+if st.button("💰 Somsak จ๋า"):
     st.switch_page("app.py")
